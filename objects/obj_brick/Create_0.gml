@@ -1,0 +1,1 @@
+image_blend = choose(c_fuchsia, c_lime, c_aqua);
